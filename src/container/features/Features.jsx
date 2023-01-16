@@ -26,7 +26,7 @@ const Features = () => {
     <div className="gpt3__features section__padding" id="features">
       <div className="gpt3__features-heading">
         <h1 className="gradient__text">
-          The Future is now ando you just need to realize it. Step into the
+          The Future is now and you just need to realize it. Step into the
           Future today & make it Happen.
         </h1>
         <p>Request Early Acces to Get Started</p>
